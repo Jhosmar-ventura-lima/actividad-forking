@@ -5,5 +5,5 @@ Repositorio principal para práctica de Forking Workflow.
 Datos del estudiante:  
 Nombre:Univ. Ninoska Carolina Cota Huallata
 Carrera: Ingeniería de Sistemas
-Semestre: Decimo
+Semestre: Decimo II/2026
 Mención: Gestión de la información 
