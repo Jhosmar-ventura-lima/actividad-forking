@@ -7,3 +7,4 @@ Tecnologías que deseo aprender:
 Docker
 Vue
 PostgreSQL
+Mongo db
